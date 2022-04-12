@@ -6,6 +6,7 @@ SpaceUse has the ability to compile all the data that gets collected in an easil
 ## Getting Started
 SpaceUse was developed using Electron, a Node.js platform that allows for converstion of HTML and Javascript interfaces into executable files.
 
+Download the Repository and run the executable to begin
 
 ## Built With
 [LeafLet.js](https://leafletjs.com/) - JavaScript plug-in used to make the map.
